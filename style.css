@@ -1,0 +1,35 @@
+body {
+  background-color: rgba(255, 166, 0, 0.295);
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+img.sinistra {
+  width: 400px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 30px;
+}
+
+img.destra {
+  width: 370px;
+  border-radius: 50px;
+  float: left;
+  margin-right: 20px;
+}
+
+em {
+  color: red;
+}
+
+* {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
